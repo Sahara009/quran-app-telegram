@@ -1,4 +1,5 @@
 # Коран — Telegram Mini App
+# https://t.me/QuranBubbleBot/quran
 
 Один файл `index.html`, без сборки. Данные берутся из открытых API:
 - суры: api.quran.com (названия, число аятов)
